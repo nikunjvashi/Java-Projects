@@ -2,6 +2,8 @@
  * Name: Nikunj Vashi
  * Net ID: nvv140030
  * Date: March 6, 2017
+ * This program takes the users weight and height through the console, 
+   calculates & prints the users BMI along with their BMI classification.
  */
 
 import java.util.Scanner;
